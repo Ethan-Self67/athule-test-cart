@@ -1,2 +1,3 @@
 # Athule-Test-Cart
-Electronic components required to test experimental/production blades to maximize efficiency and minimize sound. Made for mobile and realistic airflow testing purposes in non-perfect weather environments. 
+Project Overview:
+Electronic components required to test experimental/production blades to maximize efficiency and minimize sound. Made for mobile and realistic airflow testing purposes in non-perfect weather environments. The test cart allows for a 50V or 100V test set up. These can be swapped between by just changing 4 wires to connect the second battery. This Test Cart is used on the "medium test stand" or specifically the Tyto 1780 Thrust Stand, only for 50V. Both the 50V and 100V can be used on the "large test stand" or specifically the Tyto Robotics Flight Stand 50, this test stand is also the one that is brought outside for more realistic testing scenarios.  
